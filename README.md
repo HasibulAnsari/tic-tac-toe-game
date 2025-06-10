@@ -21,6 +21,8 @@ A **simple, responsive Tic Tac Toe game** built using **HTML, CSS, and JavaScrip
 ![Tic Tac Toe Screenshot](Tic-Tac-Toe.png)
 
 ---
+🎮 [Play the Game Online](https://hasibulansari.github.io/tic-tac-toe-game/)
+
 
 ## 🛠️ Technologies Used
 
